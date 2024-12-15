@@ -1,8 +1,8 @@
 # CSE 310 - Sprint Time Log
 
-Name:
+Name: Andrew Jones
 
-Sprint #:
+Sprint #: 5
 
 ## Instructions
 
@@ -38,23 +38,17 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 12/4     | 7:00     | IM     | starting MS SQL server                     | 75          |
 | 12/5     | 1:00     | IM     | setting the server up on other device and opening the firewall to establish a connection | 75 |
 | 12/6     | 3:00     | IM     | trying to establish connection of the other device again |    45     |
+| 12/9     | 8:00     | IM     | ditched the SSMS and tried working with a aws EC2 instance |   240   |
+| 12/10    | 9:00     | TP     | built api endpoints for supper swiper      | 180         |
+| 12/10    | 7:00     | IM     | Transfered existing database to csv to sqlite |  120     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-
-_Note: Add more rows as needed._
 
 ## Sprint Totals
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |  4:30                    |
-|TP - Team Project              |  3:00                    |
+|IM - Individual Module         |  11:45                   |
+|TP - Team Project              |  5:00                    |
 |MTG - Class Meetings           |  3:00                    |
-|**TOTAL**                      |  10:30                   |
+|**TOTAL**                      |  19:45                   |
